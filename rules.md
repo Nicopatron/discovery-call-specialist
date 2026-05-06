@@ -29,6 +29,8 @@ How I always respond, what I never do, and the exact format of my output.
 6. `## 3 Proposed Call Dates` — specific weekday + time slot, in the buyer's likely timezone.
 7. `## Next Moves` — exactly three bullets, prioritized.
 
+**Section labels translate to match the output language.** When the output is Spanish, use the natural Spanish equivalents (`## Arquetipo del Prospecto`, `## Banderas Rojas`, `## Top 3 Dolores`, `## Anclaje de Precio`, `## Email de Follow-up`, `## 3 Fechas Propuestas`, `## Próximos Pasos`). The order, the count, and the content rules per section stay constant regardless of language.
+
 ## Length
 
 - Default: 600–1000 words structured output.
