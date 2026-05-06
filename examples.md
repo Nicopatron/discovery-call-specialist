@@ -144,25 +144,25 @@ mostrarle algo cuando esté listo.
 
 ### Output
 
-## Arquetipo del prospecto
+## Arquetipo del Prospecto
 
 **Operadora abrumada de servicio profesional.** Señales: clínica en marcha hace 10 años con problema operativo crónico (no estratégico), dolor concreto cuantificado ("perdimos como diez turnos la semana pasada"), referida por un caso exitoso (cuñada → clínica de estética), tomadora de decisión ella misma, sin urgencia ("si para julio funciona perfecto"), no técnica pero práctica.
 
-## Top 3 Pains
+## Top 3 Dolores
 
-**Pain 1 — Surface:** *"Estamos perdiendo turnos por mal manejo de la agenda... la semana pasada perdimos como diez turnos."*
-- Real pain: la operación diaria depende de una persona y un Excel. Mariana no se siente con control de su propio negocio.
+**Dolor 1 — Superficie:** *"Estamos perdiendo turnos por mal manejo de la agenda... la semana pasada perdimos como diez turnos."*
+- Dolor real: la operación diaria depende de una persona y un Excel. Mariana no se siente con control de su propio negocio.
 - JTBD: "que la agenda funcione sin que yo tenga que estar arriba todo el tiempo."
 
-**Pain 2 — Surface:** *"Mi marido me dice que tendría que poner 'algo con IA'. Yo no entiendo mucho de eso pero veo que todo el mundo habla."*
-- Real pain: presión social-familiar de "ponerse al día" + miedo a quedar atrás. No es deseo de IA, es deseo de no quedar como que no entiende.
+**Dolor 2 — Superficie:** *"Mi marido me dice que tendría que poner 'algo con IA'. Yo no entiendo mucho de eso pero veo que todo el mundo habla."*
+- Dolor real: presión social-familiar de "ponerse al día" + miedo a quedar atrás. No es deseo de IA, es deseo de no quedar como que no entiende.
 - JTBD: "darle a mi marido y a mí una respuesta cuando alguien me pregunte qué hago con la tecnología en la clínica."
 
-**Pain 3 — Surface:** *"Si alguien no viene se le mande un recordatorio... que respondan WhatsApp solos para preguntas básicas."*
-- Real pain: la coordinadora ya está saturada. Mariana no quiere contratar otra persona, quiere que la actual deje de quemarse.
+**Dolor 3 — Superficie:** *"Si alguien no viene se le mande un recordatorio... que respondan WhatsApp solos para preguntas básicas."*
+- Dolor real: la coordinadora ya está saturada. Mariana no quiere contratar otra persona, quiere que la actual deje de quemarse.
 - JTBD: "automatizar las preguntas repetidas y los avisos sin sumar humanos."
 
-## Pricing Anchor
+## Anclaje de Precio
 
 **$2K–$4K USD para Fase 1.** Señales:
 - Tamaño (4 odontólogos, ~200 turnos/mes, single-location) → rango base $1–3K (PYME chica).
@@ -173,7 +173,7 @@ mostrarle algo cuando esté listo.
 
 Scope sugerido Fase 1: integración del sistema de agenda con WhatsApp + recordatorios automáticos 48h y 24h + confirmación con un click + bot básico de FAQ ("limpieza, blanqueamiento, urgencias, horarios"). Quedan afuera: historia clínica digital, integración con obra social, reportería avanzada.
 
-## Follow-up Email
+## Email de Follow-up
 
 > Asunto: Clínica Acosta — siguientes pasos
 >
@@ -194,7 +194,7 @@ Scope sugerido Fase 1: integración del sistema de agenda con WhatsApp + recorda
 - **Miércoles 14 de mayo — 16:00 PM**
 - **Viernes 16 de mayo — 10:30 AM**
 
-## Next Moves
+## Próximos Pasos
 
 1. **Mandar el follow-up dentro de 24h.** El trust de la referida es perecedero — si tarda más de 48h, la cuñada queda mal y Mariana también.
 2. **Antes de la próxima llamada, averiguar qué sistema de agenda usa.** Si es Doctoralia o similar, hay API y la integración es directa. Si es Excel puro, agregar 1 semana de scope para migrar a un sistema mínimo (Cal.com / Doctoralia free tier).
