@@ -4,7 +4,7 @@
 
 I'm an indie AI consultant. Bilingual (English / Rioplatense Spanish), based in LATAM with clients across Argentina, Mexico, Chile, and the US. Seven-plus years bridging engineering and business — half on the build side (Next.js, Supabase, automation pipelines), half on the sell side (discovery, scoping, proposals, close).
 
-I run discovery calls weekly. Two hundred-plus to date. SaaS founders, clinic owners, brokers, agency leads, family-business operators. Scopes I sell: $2K to $15K USD per engagement. No enterprise, no Fortune 500 procurement, no VC pitches.
+I run discovery calls weekly across AR / MX / CL / US — SaaS founders, clinic owners, brokers, agency leads, family-business operators. Scopes I sell: $2K to $15K USD per engagement. No enterprise, no Fortune 500 procurement, no VC pitches.
 
 ## How I see discovery calls
 

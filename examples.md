@@ -103,6 +103,13 @@ Recommended scope for Phase 1: 2-week feature-prioritization sprint (data audit 
 2. **Do NOT send a long proposal.** Marcus is allergic. If he wants more detail, he'll ask.
 3. **If he confirms a call window, prepare a 1-page Phase 1 contract** — scope, deliverables, price, timeline, off-ramp clause. Sign within 5 business days or move on.
 
+## Decision Trace
+
+- **Archetype** "skeptical-but-frustrated SaaS founder" → driven by *"losing demos to 'but does it have AI?' questions"* + *"40-page deck of stuff we already knew"* + 8-week board deadline.
+- **Red flag** "no clear AI use case yet" → directly from *"I'm not even sure what AI features I want."*
+- **Anchor** $4K–$8K → mid-SaaS base ($3–7K) + urgency multiplier (+30%) + trust premium (+10%) for prior bad-agency experience; no referral, decision-maker on call.
+- **Output language** English → transcript fully English; Marcus is NYC-based.
+
 ---
 
 ## Example 2 — Clínica dental Buenos Aires (Español)
@@ -148,6 +155,10 @@ mostrarle algo cuando esté listo.
 
 **Operadora abrumada de servicio profesional.** Señales: clínica en marcha hace 10 años con problema operativo crónico (no estratégico), dolor concreto cuantificado ("perdimos como diez turnos la semana pasada"), referida por un caso exitoso (cuñada → clínica de estética), tomadora de decisión ella misma, sin urgencia ("si para julio funciona perfecto"), no técnica pero práctica.
 
+## Banderas Rojas
+
+- **Señales secundarias del arquetipo "AI-curious legacy" (no deal-breaker, awareness).** *"Mi marido me dice que tendría que poner 'algo con IA'. Yo no entiendo mucho de eso pero veo que todo el mundo habla."* No es bandera roja crítica — Mariana es honesta sobre lo que no sabe y el dolor operativo es real (los turnos perdidos están cuantificados). Pero hay dos signals para vigilar: (1) el push viene de afuera (marido, "todo el mundo habla"), no de un dolor que ella diagnosticó como "AI-shaped"; (2) auto-descalificación técnica suele invitar scope drift hacia "AI por la AI" en la propuesta. Mitigación: la Fase 1 se ancla en el dolor de la agenda, no en "implementar IA"; el bot de FAQ es valor agregado, no headline. Si en la próxima call el marido aparece y empuja "más AI", reanchorear al ROI medible (turnos recuperados).
+
 ## Top 3 Dolores
 
 **Dolor 1 — Superficie:** *"Estamos perdiendo turnos por mal manejo de la agenda... la semana pasada perdimos como diez turnos."*
@@ -167,7 +178,7 @@ mostrarle algo cuando esté listo.
 **$2K–$4K USD para Fase 1.** Señales:
 - Tamaño (4 odontólogos, ~200 turnos/mes, single-location) → rango base $1–3K (PYME chica).
 - Sin urgencia (deadline julio = 8 semanas) → sin multiplicador de urgencia.
-- Referencia directa de cliente exitoso (cuñada) → close más rápido y trust premium ya pagado por la referida.
+- Referencia directa de cliente exitoso (cuñada) → close más rápido y **sin trust premium adicional** — la referida ya pagó esa garantía con su caso anterior.
 - Decisión clara, ella sola → sin penalización.
 - Hint de presupuesto ("dos lucas verdes" = USD ~$2K) → ancla $2K es realista para scope mínimo, $4K si se suma WhatsApp bot a la confirmación de turnos.
 
@@ -199,6 +210,13 @@ Scope sugerido Fase 1: integración del sistema de agenda con WhatsApp + recorda
 1. **Mandar el follow-up dentro de 24h.** El trust de la referida es perecedero — si tarda más de 48h, la cuñada queda mal y Mariana también.
 2. **Antes de la próxima llamada, averiguar qué sistema de agenda usa.** Si es Doctoralia o similar, hay API y la integración es directa. Si es Excel puro, agregar 1 semana de scope para migrar a un sistema mínimo (Cal.com / Doctoralia free tier).
 3. **Si confirma, mandar propuesta de UNA PÁGINA en 48h.** Mariana es dueña-operadora; no le interesa leer 12 páginas. Una página: scope, deliverables, plata, cronograma, condiciones de salida.
+
+## Trazabilidad de la Decisión
+
+- **Arquetipo** "operadora abrumada de servicio profesional" → *"perdimos como diez turnos la semana pasada"* + clínica de 10 años con problema operativo (no estratégico) + auto-descripción "no entiendo de eso pero práctica".
+- **Banderas rojas** señales secundarias del arquetipo "AI-curious legacy" → *"mi marido me dice que tendría que poner 'algo con IA'"* + auto-descalificación técnica. No deal-breaker; mitigación: anclar Fase 1 en agenda, no en "implementar IA".
+- **Anclaje** $2K–$4K → PYME chica base ($1–3K) + sin urgencia (deadline julio) + referral exitoso (sin trust premium adicional) + presupuesto declarado *"dos lucas verdes"*.
+- **Idioma del output** español rioplatense → transcript dominante en español, voseo natural ("decime", "mirá").
 
 ---
 
@@ -297,3 +315,51 @@ Phase 1 scope: post-purchase email + WhatsApp sequence (5–7 touches over 90 da
 1. **Send the follow-up email today**, in the same bilingual register he used. Federico mixed Spanish and English fluently — matching that tone signals fit.
 2. **Include his wife on the next call invite.** He named her as the marketing operator. Without her in the room from call two, scope drift on copy is guaranteed.
 3. **Pre-call, ask for read-only access to his Shopify (or equivalent) and the current "thank you" email.** Walking into call two with a screenshot of the actual current state changes the conversation from "what should we do" to "here's what's broken, here's the fix."
+
+## Decision Trace
+
+- **Archetype** "cross-border SMB scaler" → *"we export to about 18 states"* + 12% repurchase metric (concrete) + DTC + 3 importers + bilingual fluent owner + USD invoicing already in place.
+- **No red flags** → buyer is qualified, decisive, articulate, has run the export business since 2008.
+- **Anchor** $5K–$10K Phase 1 + retainer optional → multi-channel mid-SMB base ($3–7K) pushed up by complexity + buyer-stated budget *"between $5K and $10K"* (he set the anchor) + LinkedIn warm-up signal (faster close, no premium added).
+- **Output language** bilingual EN/ES, dominant English → transcript mixed but Federico is fluent and most of his US business is conducted in English; the Spanish flourishes in the email match his code-switching.
+
+---
+
+## Example 4 — Refusal / Degraded input (mixed-language)
+
+This is what graceful degradation looks like. The transcript clears the 100-word floor but is missing the inputs needed for an honest synthesis. The specialist refuses to guess and asks for what's missing instead of producing a plausible-but-fabricated 7-section output. **Synthesizing a guess on a real discovery call costs more than a clarification email.**
+
+### Transcript
+
+```
+Bueno, hablamos. Tengo una empresa hace tiempo, queremos hacer something
+with AI but no estamos seguros qué exactly. We have customers, some
+good, some bad. La parte de marketing está medio descontrolada y yo no
+llego a todo. Mi socia dice que con AI we should automate stuff pero no
+me convence del todo. We tried ChatGPT for a few things — sirve a veces
+pero no sé si vale la inversión. El equipo es chico. We're in a couple
+of countries. Si me das una idea de lo que hacés seguimos hablando, y
+si no, igual gracias por el tiempo. ¿Cómo seguimos?
+```
+
+*(115 words — clears the 100-word floor; 5 of 5 intake inputs are weak or missing.)*
+
+### Output
+
+## Need More Before I Can Synthesize
+
+Honest answer: this transcript is above the 100-word floor but too thin to produce a useful 7-section synthesis without guessing. A guessed pricing anchor on a real call costs more than a clarification email, so I'm flagging the gaps before producing anything.
+
+**Five inputs I need (see `reference/intake-checklist.md` for the full criteria):**
+
+1. **Who is this person?** First name + role + company name. Right now I have an anonymous "tengo una empresa" — I can label that anything I want, which is exactly the problem.
+2. **What industry, what geography?** "Couple of countries" is too vague. Pricing anchors and red flags vary wildly across clínica vs SaaS vs bodega, and across US vs LATAM vs cross-border. Without it, the anchor is fiction.
+3. **One pain, quantified, with a verbatim quote.** "Marketing está medio descontrolada" gives me no hook — how many leads, how many lost, what's the cost of the chaos? I need a number or a concrete missed thing.
+4. **Any budget signal — even "no idea yet."** Right now I don't know if Phase 1 is $1K or $15K. If they don't have a number, "no clue, what's typical?" is a valid signal too — but say it explicitly.
+5. **Who decides — them, the partner, or both together?** *"Mi socia dice"* suggests shared decision-making but doesn't say if she has veto, advisory, or co-sign rights. That changes the deal motion entirely (single decider → faster close; co-sign → expect delay).
+
+**Bilingual note:** the transcript switches EN/ES throughout with no clear dominant language. Per `rules.md` I default to English output unless told otherwise. If Spanish would feel more natural to the prospect, confirm before the next round.
+
+**One additional flag for the operator (you, not the prospect):** *"We tried ChatGPT for a few things — sirve a veces pero no sé si vale la inversión"* is the surface form of a known objection from `reference/objection-bank.md` (#2: "Ya probamos GPT y no funcionó"). When the synthesis happens, lead the response with workflow-vs-raw-model framing, not with a feature pitch.
+
+**Suggested next message** — paste the prospect's reply with the 5 inputs filled, OR write a 4-bullet brief covering the gaps. Then I produce the full 7-section synthesis.
